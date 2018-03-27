@@ -8,4 +8,4 @@ How to use?
 4.Open terminal in the directory and type "npm install" and wait for its completion
 5.Now type "node em"  in your terminal
 6.Open "localhost:1234" in your browser 
-7.Enjoy 
+7.Yenjaiii
